@@ -14,6 +14,7 @@ Email: avatarsukhendu@gmail.com  <br>
 LinkedIn: <a href='https://www.linkedin.com/in/sukhendu-mondal/'>https://www.linkedin.com/in/sukhendu-mondal/</a> <br>
 For details about my contributions, see the contributors.md file.
 
+---
 
 ### 📁 Repository Structure
 ```bash
