@@ -9,9 +9,9 @@ Each subdirectory corresponds to a patent where I have contributed to certain co
 ---
 
 ## About Me
-This repository is curated by **Sukhendu Mondal**, who contributed as a co-inventor to the patents listed herein. 
-Email: avatarsukhendu@gmail.com  
-LinkedIn: <a href='https://www.linkedin.com/in/sukhendu-mondal/'>https://www.linkedin.com/in/sukhendu-mondal/</a>
+This repository is curated by **Sukhendu Mondal**, who contributed as a co-inventor to the patents listed herein. <br>
+Email: avatarsukhendu@gmail.com  <br>
+LinkedIn: <a href='https://www.linkedin.com/in/sukhendu-mondal/'>https://www.linkedin.com/in/sukhendu-mondal/</a> <br>
 For details about my contributions, see the contributors.md file.
 
 
