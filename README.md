@@ -1,6 +1,7 @@
 ### Patent Contributions Showcase
 
-This repository is intended to **document and highlight my contributions as a co-inventor / inventor** to one or more granted or filed patents.  
+This repository is intended to **document and highlight my contributions as a co-inventor / inventor** to one or more granted or filed patents.
+
 It serves as a reference for my involvement in specific research and development efforts that have led to patented innovations.
 
 Each subdirectory corresponds to a patent where I have contributed to certain components.
