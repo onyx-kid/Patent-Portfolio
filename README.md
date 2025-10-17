@@ -8,6 +8,13 @@ Each subdirectory corresponds to a patent where I have contributed to certain co
 
 ---
 
+## About Me
+This repository is curated by **Sukhendu Mondal**, who contributed as a co-inventor to the patents listed herein. 
+Email: avatarsukhendu@gmail.com  
+LinkedIn: <a href='https://www.linkedin.com/in/sukhendu-mondal/'>https://www.linkedin.com/in/sukhendu-mondal/</a>
+For details about my contributions, see the contributors.md file.
+
+
 ### 📁 Repository Structure
 ```bash
 patent-contributions-showcase/
