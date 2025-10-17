@@ -10,7 +10,7 @@ Each subdirectory corresponds to a patent where I have contributed to certain co
 ### 📁 Repository Structure
 patent-contributions-showcase/
 │
-├── Individual Patent folder          # Possibly named with application number
+└── Individual Patent folder          # Possibly named with application number
     ├── README.md                     # Describes the patent overview
     ├── contributors.md               # List of inventors or team members
     └── Publication-Certificate.pdf   # Official patent publication or filing document
